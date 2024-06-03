@@ -11,6 +11,10 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "StreetMap",
+			"Enabled": false
 		}
 	]
 }
